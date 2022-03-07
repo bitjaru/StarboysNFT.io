@@ -7,6 +7,7 @@ http://starboysnft.io
 - Nextjs (for SEO)
 - Javascript
 - Styled-Component
+- Responsive web design CSS
 - Scroll transform effects - redux(or context API)
 - Floating Animation Component - styled-component
 - next redux wrapper
